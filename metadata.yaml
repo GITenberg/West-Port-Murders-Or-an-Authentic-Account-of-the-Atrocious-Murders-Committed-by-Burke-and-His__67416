@@ -1,5 +1,8 @@
 _repo: West-Port-Murders-Or-an-Authentic-Account-of-the-Atrocious-Murders-Committed-by-Burke-and-His__67416
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67416-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
     - https://en.wikipedia.org/wiki/Anonymous_work
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67416#West-Port-Murders-Or-an-Authentic-Account-of-the-Atrocious-Murders-Committed-by-Burke-and-His_
 gutenberg_issued: '2022-02-16'
 identifiers:
   gutenberg: '67416'
